@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include reynotech *.css
+recursive-include reynotech *.csv
+recursive-include reynotech *.html
+recursive-include reynotech *.ico
+recursive-include reynotech *.js
+recursive-include reynotech *.json
+recursive-include reynotech *.md
+recursive-include reynotech *.png
+recursive-include reynotech *.py
+recursive-include reynotech *.svg
+recursive-include reynotech *.txt
+recursive-exclude reynotech *.pyc
