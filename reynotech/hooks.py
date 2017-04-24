@@ -120,3 +120,5 @@ doctype_js = {"Sales Order" : "public/js/sales_order.js", "Quotation" : "public/
 # }
 
 fixtures = ["Custom Field"]
+
+mail_footer = ""
